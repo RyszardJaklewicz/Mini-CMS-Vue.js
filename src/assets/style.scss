@@ -1,0 +1,23 @@
+$fontSize: 1.0em;
+$fontSizeFooter: 0.7em;
+$fontSizeButton: 0.7em;
+$fontWeightButton: 900;
+$widthButtonHeader: 100px;
+
+html, body {
+	font-size: $fontSize;
+}
+
+#footer {
+    font-size: $fontSizeFooter;
+}
+
+.DivMenuMain {
+    font-size: $fontSizeButton;
+    width: $widthButtonHeader;
+}
+
+.Button {
+    font-size: $fontSizeButton;
+    font-weight: $fontWeightButton;
+}
