@@ -11,7 +11,13 @@ polecenia-git.txt
 
 node_modules
 
-public/images/
+public/images/logo-admin-vel.png
+public/images/header-image-slavic-mobile-smartphone.jpg
+public/images/header-image-slavic.jpg
+
+public/images/symbols-s/
+public/images/__header-image/
+public/images/favicon-vel
 
 test
 
